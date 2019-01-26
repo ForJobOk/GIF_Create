@@ -11,6 +11,4 @@ UnityEditor上でGameViewをGIF画像として保存できます。
 ②MainCameraにRec,RecorderをAdd Componentする  
 ③Playの状態でキーボードのRを押すと録画開始、Sで保存。　　
 
-[使わせていただきました]:(https://github.com/Chman/Moments.git "Chman/Moments")  
- [link]: https://github.com/Chman/Moments.git""Chman/Moments"  
 詳細：https://qiita.com/OKsaiyowa/items/f96c94173230712840ee
